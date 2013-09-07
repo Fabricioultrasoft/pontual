@@ -408,7 +408,7 @@ begin
 end;
 
 function TNitgen.Versao:string;
-  begin
-    result := 'BSP Version: ' + objNBioBSP.MajorVersion + '.' + objNBioBSP.MinorVersion;
-  end;
+begin
+  result := 'BSP Version: ' + objNBioBSP.MajorVersion + '.' + objNBioBSP.MinorVersion;
+end;
 end.
