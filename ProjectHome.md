@@ -1,0 +1,1 @@
+Sistema pontual delphi XE + postgresql
